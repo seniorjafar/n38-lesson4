@@ -1,0 +1,63 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: 0;
+}
+.navbar {
+  display: inline-block;
+  margin: 0;
+  padding: 5px 15px 5px 15px;
+  font-size: 35px;
+  line-height: 1.5;
+  background-color: rgb(40, 42, 53);
+  width: 90%;
+}
+.navbar a {
+  text-decoration: none;
+  color: white;
+  width: 95%;
+  padding: 20px;
+}
+.btn {
+    margin: 7px;
+  height: 50px;
+  font-size: 18px;
+  background-color: #04aa6d;
+  color: #ffffff;
+  border: none;
+border-radius: 15px;
+width: 150px;
+}
+
+.title {
+  text-transform: uppercase;
+}
+
+#html h1 {
+  font-size: 40px;
+}
+
+.about {
+  background-color: rgb(217, 238, 225);
+}
+
+.about p {
+  line-height: 40px;
+  text-indent: 20px;
+}
+
+.about .btn-2 {
+  background-color: black;
+
+}
+
+.html-yourself *, .html-example * {
+  text-indent: 20px;
+  line-height: 40px;
+}
+.btn3{
+    text-align: center;
+padding: 2px;
+margin: 5px;
+
+}
